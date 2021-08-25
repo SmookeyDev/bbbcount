@@ -14,5 +14,5 @@ Uma bela madrugada eu estava entediado e simplesmente me veio a ideia de desenvo
 
 ## Contatos
 
-* [Telegram](https://t.me/xSmookeyBR)
-* [Twitter](https://twitter.com/xSmookeyBR) 
+* [Telegram](https://t.me/SmookeyDev)
+* [Twitter](https://twitter.com/SmookeyDev) 
